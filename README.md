@@ -1,6 +1,6 @@
 ## Desafio de Projeto da DIO
 
-#### Completando o Framework Scrum
+#### Complementando o Framework Scrum
 
 Link para visualização do exercício na plataforma Miro:
 
